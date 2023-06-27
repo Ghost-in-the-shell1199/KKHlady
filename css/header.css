@@ -1,0 +1,30 @@
+.user{
+    font-size: 14px;
+    font-weight: 400;
+}
+.user{
+    display: flex;
+    border: solid black 2px;
+    position:absolute;
+    right: 0px;
+    padding: 5px;
+    padding-top: 7px;
+    
+}
+.profile{
+    margin-left: 4px;
+    margin-bottom: 4px;
+}
+header{
+    display: flex;
+   
+    margin-top: 30px;
+}
+.menu li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.menu{
+    display: flex;
+    
+}
