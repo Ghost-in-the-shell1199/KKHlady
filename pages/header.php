@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Header</title>
-    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="../css/header.css">
 </head>
 
 <div class="user">
@@ -26,11 +26,3 @@
         </ul>
     </nav>
 </header>
-<body>
-    <p>login in as</p>
-    <img src="developer" alt="developer">
-    <h3>developers<h3>
-    <img src="admin" alt="admin">
-    <h3>admin<h3>
-</body>
-</html>
