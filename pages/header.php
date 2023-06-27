@@ -9,7 +9,7 @@
 
 <div class="user">
     Hello Admin
-    <img class="profile" src="images/image-removebg-preview.png" width="20px">
+    <img class="profile" src="../images/image-removebg-preview.png" width="20px">
 </div>
 <header>
     <h3>

@@ -6,9 +6,12 @@
     display: flex;
     border: solid black 2px;
     position:absolute;
-    right: 0px;
+    right: 10px;
     padding: 5px;
     padding-top: 7px;
+    position: absolute;
+    top: 10px;
+    border-radius: 19px;
     
 }
 .profile{
@@ -17,14 +20,23 @@
 }
 header{
     display: flex;
-   
     margin-top: 30px;
+    justify-content: space-between;
 }
 .menu li{
-    text-decoration: none;
+    
     list-style-type: none;
+    
+}
+.menu li a {
+    text-decoration: none;
+    color: black;
 }
 .menu{
     display: flex;
+    width: 400px;
+    justify-content: space-between;
+    margin-top: 30px;
+   
     
 }
