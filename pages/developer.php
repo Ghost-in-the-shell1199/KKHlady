@@ -10,5 +10,8 @@
         </button>
     </a>
 </body>
+<?php
+    require_once('./footer.php');
+?>
 
 </html>

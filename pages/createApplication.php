@@ -15,6 +15,9 @@
 
     <div id="statusMessage"></div>
 </body>
+<?php
+    require_once('./footer.php');
+?>
 
 </html>
 
