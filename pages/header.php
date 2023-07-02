@@ -19,9 +19,9 @@
     <nav>
         <ul class="menu">
             <li><a href="./dashboard.php">Dashboard</a></li>
-            <li><a href="./applications.php">Applications</a></li>
-            <li><a href="./applicationManager.php">Application Manager</a></li>
-            <li><a href="./login.php">Logout</a></li>
+            <li><a href="./page-applications.php">Applications</a></li>
+            <li><a href="./page-application-manager.php">Application Manager</a></li>
+            <li><a href="./page-login.php">Logout</a></li>
 
         </ul>
     </nav>
