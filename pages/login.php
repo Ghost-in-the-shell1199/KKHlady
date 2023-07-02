@@ -28,3 +28,6 @@
     </div>
 <script src="login.js"></script>
 </body>
+<?php
+    require_once('./footer.php');
+?>
