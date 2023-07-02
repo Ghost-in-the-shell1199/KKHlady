@@ -1,5 +1,5 @@
 <?php
-    require_once('./header.php');
+    require_once('./page-header.php');
 ?>
 <body>
     <button id="loginBtn">Login</button>    
