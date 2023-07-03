@@ -25,6 +25,6 @@
 
         </ul>
     </nav>
-    <hr>
+   
 </header>
-
+<hr>

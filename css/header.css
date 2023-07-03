@@ -8,8 +8,8 @@
     display: flex;
     border: solid black 2px;
     position:absolute;
-    right: 20px;
-    padding-right: 30px;
+    right: 40px;
+    padding-right: 25px;
     padding-top: 12px;
     padding-left: 30px;
     position: absolute;
@@ -49,6 +49,6 @@ header{
         padding-left: 20px;
     }
     nav{
-        margin-left: 620px;
+       padding-right: 50px;
     }
   }
