@@ -79,3 +79,6 @@ body {
 </form>
 </div>
 </body>
+<?php
+    require_once('./page-footer.php');
+?>
