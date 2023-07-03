@@ -52,3 +52,11 @@ header{
        padding-right: 50px;
     }
   }
+  @media only screen and (max-width: 950px) {
+    h3{
+        padding-left: 20px;
+    }
+    nav{
+       padding-right: 50px;
+    }
+  }
