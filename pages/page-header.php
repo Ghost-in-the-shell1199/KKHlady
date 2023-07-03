@@ -18,7 +18,7 @@
     </h3>
     <nav>
         <ul class="menu">
-            <li><a href="./dashboard.php">Dashboard</a></li>
+            <li><a href="./page-dashboard.php">Dashboard</a></li>
             <li><a href="./page-applications.php">Applications</a></li>
             <li><a href="./page-application-manager.php">Application Manager</a></li>
             <li><a href="./page-login.php">Logout</a></li>
