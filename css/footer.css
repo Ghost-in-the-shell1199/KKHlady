@@ -2,8 +2,8 @@
 html,body {
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, Sans-serif;
-    background-color: #070617;
+    
+   
   }
   .dummy_page {
     height: 200px;
@@ -15,6 +15,7 @@ html,body {
   }
   /* STYLES SPECIFIC TO FOOTER  */
   .footer {
+    font-family: Arial, Helvetica, Sans-serif;
     width: 100%;
     position: relative;
     height: auto;
