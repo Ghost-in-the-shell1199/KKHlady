@@ -9,7 +9,7 @@
 
 
 <!-- FOOTER START -->
-<div class="footer">
+<footer class="footer">
   <div class="contain">
   <div class="col">
     <h1>Company</h1>
