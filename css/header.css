@@ -1,3 +1,5 @@
+
+
 .user{
     font-size: 14px;
     font-weight: 400;
@@ -6,17 +8,19 @@
     display: flex;
     border: solid black 2px;
     position:absolute;
-    right: 10px;
-    padding: 5px;
-    padding-top: 7px;
+    right: 20px;
+    padding-right: 30px;
+    padding-top: 12px;
+    padding-left: 30px;
     position: absolute;
     top: 10px;
     border-radius: 19px;
     
 }
 .profile{
-    margin-left: 4px;
-    margin-bottom: 4px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+    margin-top: -1.5px;
 }
 header{
     display: flex;
