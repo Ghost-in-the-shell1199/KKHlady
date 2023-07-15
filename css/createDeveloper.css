@@ -1,0 +1,15 @@
+h1{
+    margin-left: 500px;
+}
+
+form{
+    margin-left: 500px;
+    font-size: 20px;
+}
+
+.button{
+    position: relative;
+    top: 130px;
+    left: 80px;
+
+}
